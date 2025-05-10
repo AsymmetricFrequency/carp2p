@@ -79,7 +79,7 @@ Contrato de intercambio seguro que:
 
 ## ✍️ Autor
 
-Creado por [Asymmetric Frequency](https://github.com/AsymmetricFrequency) – soluciones blockchain para activos reales.
+Creado por [Asymmetric Frequency](https://github.com/AsymmetricFrequency)/ Ethereum cali  – soluciones blockchain para activos reales.
 
 ---
 
